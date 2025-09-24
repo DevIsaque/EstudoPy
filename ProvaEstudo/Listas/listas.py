@@ -58,6 +58,13 @@ lista8 = [
 ]
 print(lista8.count(1))  # ! conta quantas vezes o elemento aparece na lista
 
+# todo (append)
+listaappend = [
+    "banana", "maçã", "laranja"
+]
+listaappend.append("uva")  # ! adiciona elemento ao final da lista
+print(listaappend)
+
 # todo (index)
 lista9 = [
     "banana", "maçã", "laranja", "uva", "pera"
